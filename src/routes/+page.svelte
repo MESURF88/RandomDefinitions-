@@ -183,6 +183,7 @@ Random Definitions    </h1>
                     <div class="jw-credits-owner">
                         <div id="jw-footer-text">
                             <div class="jw-footer-text-content">
+                                <p>Courtesy of urbandictionary API</p>
                                                             </div>
                         </div>
                     </div>
