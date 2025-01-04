@@ -1,3 +1,15 @@
+# deployment using netlify
+
+add https://
+
+```text
+aquamarine-semifreddo-9f42bd.netlify.app
+```
+
+# preview
+
+![](preview.png)
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
